@@ -2,8 +2,8 @@
 - 🌱 information Systems student (SPtech- São Paulo Tech School)
 
   <div  align="center">
-   <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaroNeto&show&countprivate=true&icons=true&theme=material-palenight'>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaroNeto&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
+   <img height="150em" src='https://github-readme-stats.vercel.app/api?username=JoaoLazaro-Soutis&show&countprivate=true&icons=true&theme=material-palenight'>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLazaro-Soutis&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
   </div>
 
 
